@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxTokenBox - How to add a custom button to each token using jQuery
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t496885/)**
+<!-- run online end -->
 
 
 This example illustrates how to add a custom button to each token using jQuery. Each button shows the alert box with the current token text.<br><br><strong>See also:</strong><br><a href="https://www.devexpress.com/Support/Center/p/T490726">ASPxTokenBox - How to add a tooltip and change the background color of a token</a>
